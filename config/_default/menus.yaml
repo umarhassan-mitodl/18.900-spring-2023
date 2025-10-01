@@ -1,0 +1,241 @@
+leftnav:
+- identifier: b5cb5b9d-42e4-4ba3-9fde-596607fa8e0b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  name: Chapter I. Polygons
+  pageRef: /pages/chapter-i-polygons
+  weight: 20
+- identifier: 57f9fb3c-ce5a-4fb3-aa76-455ef6b05523
+  name: Chapter II. Billiards
+  pageRef: /pages/chapter-ii-billiards
+  weight: 30
+- identifier: 854e4942-168e-4dce-a9b8-304fa74c68e6
+  name: Chapter III. The Principal Frequency
+  pageRef: /pages/chapter-iii-the-principal-frequency
+  weight: 40
+- identifier: 114106f6-f893-4cce-a997-913596811e8d
+  name: Chapter IV. Loops
+  pageRef: /pages/chapter-iv-loops
+  weight: 50
+- identifier: 482ddacc-7c88-4642-bdbb-327ee427ae02
+  name: Chapter V. Immersed Loops
+  pageRef: /pages/chapter-v-immersed-loops
+  weight: 60
+- identifier: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  name: Chapter VI. Algebraic Curves
+  pageRef: /pages/chapter-vi-algebraic-curves
+  weight: 70
+- identifier: b2dfe80f-0f20-47f0-afee-7495c4268813
+  name: Chapter VII. Two-Dimensional Complexes
+  pageRef: /pages/chapter-vii-two-dimensional-complexes
+  weight: 80
+- identifier: c5498f01-2117-4f65-8514-92f324346fab
+  name: Chapter VIII. Hyperbolic Geometry
+  pageRef: /pages/chapter-viii-hyperbolic-geometry
+  weight: 90
+- identifier: 19549f51-d92d-4f43-8e6c-aa3cc67ecc35
+  name: Chapter IX. Curved Geometries
+  pageRef: /pages/chapter-ix-curved-geometries
+  weight: 100
+- identifier: fd1bcf04-1464-4add-9a6c-666ddcf830d5
+  name: 'Lecture 1: Cutting and Pasting Polygons'
+  pageRef: /pages/lecture-1-cutting-and-pasting-polygons
+  parent: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  weight: 10
+- identifier: e538814a-5061-4c16-96d6-1f6270e8182b
+  name: 'Lecture 2: Integer Polygons'
+  pageRef: /pages/lecture-2-integer-polygons
+  parent: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  weight: 20
+- identifier: 9ff2bce2-ef48-4fea-ab45-204e477a25b2
+  name: 'Lecture 3: The Shoelace Formula and the Winding Number'
+  pageRef: /pages/lecture-3-the-shoelace-formula-and-the-winding-number
+  parent: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  weight: 30
+- identifier: 54552bb9-237e-4ac4-bcf2-001610957015
+  name: 'Lecture 4: The Winding Number (continued)'
+  pageRef: /pages/lecture-4-the-winding-number-continued
+  parent: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  weight: 40
+- identifier: 2e906331-631b-40ce-96f9-139e71ea67ab
+  name: 'Lecture 5: Loops Avoiding Two Points'
+  pageRef: /pages/lecture-5-loops-avoiding-two-points
+  parent: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  weight: 50
+- identifier: bf5f8221-2183-470d-96bd-d6792cbe6041
+  name: 'Lecture 6: Introduction to Billiards'
+  pageRef: /pages/lecture-6-introduction-to-billiards
+  parent: 57f9fb3c-ce5a-4fb3-aa76-455ef6b05523
+  weight: 10
+- identifier: 6510e10a-7db6-4aef-81b1-656ea5204e32
+  name: 'Lecture 7: Phase Space'
+  pageRef: /pages/lecture-7-phase-space
+  parent: 57f9fb3c-ce5a-4fb3-aa76-455ef6b05523
+  weight: 20
+- identifier: a58a53d3-b4fa-4e0a-a21a-b31750478eac
+  name: 'Lecture 8: Billiards in Curved Domains'
+  pageRef: /pages/lecture-8-billiards-in-curved-domains
+  parent: 57f9fb3c-ce5a-4fb3-aa76-455ef6b05523
+  weight: 30
+- identifier: 76c1bc1f-cadc-4975-a1dd-a0ddfc493b9a
+  name: 'Lecture 9: First Computations'
+  pageRef: /pages/lecture-9-first-computations
+  parent: 854e4942-168e-4dce-a9b8-304fa74c68e6
+  weight: 10
+- identifier: fd08ec8b-77e6-44e0-9765-1a571f4122e9
+  name: 'Lecture 10: An Extremal Characterization'
+  pageRef: /pages/lecture-10-an-extremal-characterization
+  parent: 854e4942-168e-4dce-a9b8-304fa74c68e6
+  weight: 20
+- identifier: 29386530-1fd0-4289-88d9-e54ae89c39cf
+  name: 'Lecture 11: Symmetrization'
+  pageRef: /pages/lecture-11-symmetrization
+  parent: 854e4942-168e-4dce-a9b8-304fa74c68e6
+  weight: 30
+- identifier: 30a5eaa9-7c77-4889-8286-4cc74680c12d
+  name: 'Lecture 12: Smooth Loops'
+  pageRef: /pages/lecture-12-smooth-loops
+  parent: 114106f6-f893-4cce-a997-913596811e8d
+  weight: 10
+- identifier: c482290f-0696-4b2b-aa4c-00b3ec3e6e17
+  name: 'Lecture 13: Equations in Two Variables'
+  pageRef: /pages/lecture-13-equations-in-two-variables
+  parent: 114106f6-f893-4cce-a997-913596811e8d
+  weight: 20
+- identifier: 8a682357-a0d1-46f2-be5f-c51f20ed0c57
+  name: 'Lecture 14: Complex Polynomials'
+  pageRef: /pages/lecture-14-complex-polynomials
+  parent: 114106f6-f893-4cce-a997-913596811e8d
+  weight: 30
+- identifier: a1662883-823a-4a2f-a90a-cc29143e8551
+  name: 'Lecture 15: The Linking Number'
+  pageRef: /pages/lecture-15-the-linking-number
+  parent: 114106f6-f893-4cce-a997-913596811e8d
+  weight: 40
+- identifier: 9cd8c981-5b70-4c84-a0a2-e37aa683cdbe
+  name: 'Lecture 16: Immersed Loops and the Rotation Number'
+  pageRef: /pages/lecture-16-immersed-loops-and-the-rotation-number
+  parent: 482ddacc-7c88-4642-bdbb-327ee427ae02
+  weight: 10
+- identifier: 22821b96-194d-4efb-9001-a6022c5b9f14
+  name: 'Lecture 17: Arnold Invariants'
+  pageRef: /pages/lecture-17-arnold-invariants
+  parent: 482ddacc-7c88-4642-bdbb-327ee427ae02
+  weight: 20
+- identifier: d38331c8-4bd0-46d5-87c6-84dcdc50a5be
+  name: 'Lecture 18: Arnold Invariants (continued)'
+  pageRef: /pages/lecture-18-arnold-invariants-continued
+  parent: 482ddacc-7c88-4642-bdbb-327ee427ae02
+  weight: 30
+- identifier: 81eb4e51-a2c9-4fe5-8752-6c50e7f4d421
+  name: 'Lecture 19: Introduction to Algebraic Curves'
+  pageRef: /pages/lecture-19-introduction-to-algebraic-curves
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  weight: 10
+- identifier: deb38ac2-c268-4c06-9308-45b09ba1c876
+  name: 'Lecture 20: Mechanical Linkages and Polynomial Equations'
+  pageRef: /pages/lecture-20-mechanical-linkages-and-polynomial-equations
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  weight: 20
+- identifier: 159792e7-f705-4094-9e51-193a4320c5d2
+  name: 'Lecture 21: Intersections of Algebraic Curves'
+  pageRef: /pages/lecture-21-intersections-of-algebraic-curves
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  weight: 30
+- identifier: f678c09e-7f63-4d0b-8fb1-d18fb07ee6ff
+  name: 'Lecture 22: Nonsingular Curves'
+  pageRef: /pages/lecture-22-nonsingular-curves
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  weight: 40
+- identifier: 171a4de9-700c-4ed5-845f-7bd97143cd15
+  name: 'Lecture 23: Singular Points'
+  pageRef: /pages/lecture-23-singular-points
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  weight: 50
+- identifier: f3d336db-3e47-4fbd-8241-f80fc2f120d3
+  name: 'Lecture 24: Patchworking'
+  pageRef: /pages/lecture-24-patchworking
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  weight: 60
+- identifier: 0d1569de-b834-4a64-8225-2727c85aad2f
+  name: 'Lecture 25: Tropical Geometry'
+  pageRef: /pages/lecture-25-tropical-geometry
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  weight: 70
+- identifier: 2687c026-7d0b-40b0-b82a-d8dca4282faa
+  name: 'Lecture 26: Projective Geometry'
+  pageRef: /pages/lecture-26-projective-geometry
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  weight: 80
+- identifier: 08dc5caf-5c5a-4863-935f-1b28c55d47f9
+  name: 'Lecture 27: Algebraic Curves in the Projective Plane'
+  pageRef: /pages/lecture-27-algebraic-curves-in-the-projective-plane
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  weight: 90
+- identifier: b69fddf8-109a-48b0-bdaa-40691bb01fbe
+  name: 'Lecture 28: Delaunay Triangulations'
+  pageRef: /pages/lecture-28-delaunay-triangulations
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  weight: 10
+- identifier: 7da4f2a5-a59e-4c2e-ba76-8f5c68dbb11f
+  name: 'Lecture 29: Betti Numbers'
+  pageRef: /pages/lecture-29-betti-numbers
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  weight: 20
+- identifier: 91263968-0235-4526-b171-b851c85b8498
+  name: 'Lecture 30: Betti Numbers (continued)'
+  pageRef: /pages/lecture-30-betti-numbers-continued
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  weight: 30
+- identifier: a385ac2b-ab3b-4a3b-b9f0-9501714ba583
+  name: 'Lecture 31: Surfaces'
+  pageRef: /pages/lecture-31-surfaces
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  weight: 40
+- identifier: b28033bd-3a90-4821-ac20-b25a174633ac
+  name: 'Lecture 32: Combinatorial Loops'
+  pageRef: /pages/lecture-32-combinatorial-loops
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  weight: 50
+- identifier: 6af9879e-ba5b-43f6-b402-b2b89b6ae5b5
+  name: 'Lecture 33: Combinatorial Winding Numbers and the Boundary Operators'
+  pageRef: /pages/lecture-33-combinatorial-winding-numbers-and-the-boundary-operators
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  weight: 60
+- identifier: 8d46281e-cb95-468e-ab99-5f8c7305a341
+  name: 'Lecture 34: The Hyperbolic Plane'
+  pageRef: /pages/lecture-34-the-hyperbolic-plane
+  parent: c5498f01-2117-4f65-8514-92f324346fab
+  weight: 10
+- identifier: 1274bc17-bb53-49df-b695-87c96cf7c73f
+  name: 'Lecture 35: Arclengths and Areas'
+  pageRef: /pages/lecture-35-arclengths-and-areas
+  parent: c5498f01-2117-4f65-8514-92f324346fab
+  weight: 20
+- identifier: d45806bd-f3f8-4f3b-bb3f-966584dd40b9
+  name: 'Lecture 36: Hyperbolic Isometries'
+  pageRef: /pages/lecture-36-hyperbolic-isometries
+  parent: c5498f01-2117-4f65-8514-92f324346fab
+  weight: 30
+- identifier: 322332ad-7577-4606-99d1-c4c01307d836
+  name: 'Lecture 37: The Geodesic Equation'
+  pageRef: /pages/lecture-37-the-geodesic-equation
+  parent: 19549f51-d92d-4f43-8e6c-aa3cc67ecc35
+  weight: 10
+- identifier: 7540d1a0-60f3-4362-8059-8777b979fe37
+  name: 'Lecture 38: Behavior(s) of Geodesics'
+  pageRef: /pages/lecture-38-behaviours-of-geodesics
+  parent: 19549f51-d92d-4f43-8e6c-aa3cc67ecc35
+  weight: 20
+- identifier: c13650a7-f834-40dc-8b11-0b53e8e97b13
+  name: 'Lecture 39: Curvature'
+  pageRef: /pages/lecture-39-curvature
+  parent: 19549f51-d92d-4f43-8e6c-aa3cc67ecc35
+  weight: 30
+- identifier: e05a87c0-4d65-402f-a43e-32b28356b6d2
+  name: 'Lecture 40: Geometry of Combinatorial Surfaces'
+  pageRef: /pages/lecture-40-geometry-of-combinatorial-surfaces
+  parent: 19549f51-d92d-4f43-8e6c-aa3cc67ecc35
+  weight: 40
